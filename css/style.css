@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+header {
+    background-image: url(../image/hero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+}
+
+header p {
+    font-family: 'Permanent Marker', cursive;
+}
+
+nav a {
+    text-shadow: 7px 1px 9px #000000;
+    -webkit-text-stroke: 0.5px #a9b1fa;
+}
+
+.card img {
+    height: 30vh;
+    object-fit: cover;
+}
